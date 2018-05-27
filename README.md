@@ -13,27 +13,27 @@ _Note:_ It won't overwrite original track. It will make a copy with \_174 suffix
 
 ### Requirements
 - pyhon3 with mutagen library
-  '''
+  ```
   brew install python3
   pip3 install mutagen
-  '''
+  ```
 - sox
-  '''
+  ```
   brew install sox
-  '''
+  ```
 - bpm tools
-  '''
+  ```
   brew install bpm-tools
-  '''
+  ```
 
 ### How to use
-'''
+```
 python3 process.py [directory_path]
-'''
+```
 
 ### Output
 
-![screenshot][screenshot.png]
+![screenshot](screenshot.png)
 
 
 ## info.py
